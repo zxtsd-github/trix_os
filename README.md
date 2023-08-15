@@ -1,10 +1,11 @@
-#Trix OS
-![trix](https://github.com/pyqi-Bilibili/trix_os/assets/56102825/37e3f4b5-1b2f-4bb1-ba45-1e0acba3c7d0)
+# Trix OS
 
-###A nb distro from archlinux
+## A Simple Linux Distro
 
-##更新记录
+#### ⭐ Star this project
 
-###20230721 Beta1.0 Trix的第一个版本，驱动齐全了
-####Beta1.1计划：
-#####apt和dpkg支持，wine集成
+#### 🚀 New Release Available
+
+### Trix OS is a simple and easy-to-use Linux distribution based on Debian. It is designed to be compatible with RPM, Pacman, and Zypper package managers. Additionally, we have incorporated a tool called trix_apt that allows for efficient management of apt packages.
+
+### If you are interested in my project, please consider giving it a ⭐ and forking it.
