@@ -2,7 +2,7 @@
 
 #                                        Trix OS
 
-## A Simple Linux Distro
+## A Simple Linux Distribution
 
 #### ⭐ Star this project
 
