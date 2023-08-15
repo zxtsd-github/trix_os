@@ -1,4 +1,6 @@
-#  Trix OS
+#![logo](https://github.com/zxtsd-github/trix_os/assets/56102825/59a5be67-d082-4651-9ee6-7c2e70269e16)
+
+#                                        Trix OS
 
 ## A Simple Linux Distro
 
